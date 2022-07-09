@@ -16,7 +16,7 @@ Once the code was complete, we used the application's web interface to send tran
 
 When we launch the app on streamlit, we are able to see each fintech professional with their pictures, account address to send the transaction to, finder rating, as well as their hourly rate in Eth.
 
-On the top left, it shows the account address in ganache that is paying out the ether, as well as their account balance after the transaction, 49.998 in this case. 
+On the top left, it shows the account address in ganache that is paying out the ether, as well as their account balance after the transaction, which is 49.998 in this instance. 
 
 We are able to select the fintech professional of our choosing, and the amount of hours we choose to hire them for.
 For this example, I chose Ash and opted to hire them for 0.05 hours.
@@ -26,12 +26,12 @@ Ash's addresss can also be seen on the left, as well as his hourly rate and the 
 
 <img width="1109" alt="Screen Shot 2022-07-09 at 2 14 32 PM" src="https://user-images.githubusercontent.com/99091066/178118524-778c71bc-99b9-4d54-8756-1f2fbd114c9e.png">
 
-Once I navitage to ganache, i can observe the same balance left in my account , 49.998.
+Once I navitage to ganache, I can observe the same balance left in my account, 49.998.
 
 
 <img width="1113" alt="Screen Shot 2022-07-09 at 2 12 58 PM" src="https://user-images.githubusercontent.com/99091066/178118570-defe118a-4aaf-4377-9f2f-dc84453bc9de.png">
 
-Transaction details can be found above . The total wage in ether on the streamlit app is 0.0165 which is rounded to two decimal places on ganache - 0.02 ETH. 
+Transaction details can be found above. The total wage in ether on the streamlit app is 0.0165, which is rounded to two decimal places on ganache - 0.02 ETH. 
 
 
 <img width="1113" alt="Screen Shot 2022-07-09 at 2 13 36 PM" src="https://user-images.githubusercontent.com/99091066/178118656-dcdf0002-4b4a-486b-adc2-4573f09f9668.png">
